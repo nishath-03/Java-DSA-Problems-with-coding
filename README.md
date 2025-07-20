@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
