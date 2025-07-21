@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
