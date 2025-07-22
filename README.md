@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
