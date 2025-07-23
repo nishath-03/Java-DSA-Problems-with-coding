@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
+| [2383-add-two-integers](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
