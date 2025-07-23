@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2556-convert-the-temperature) |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
 ## Dynamic Programming
 |  |
