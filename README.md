@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
+| [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [2714-left-and-right-sum-differences](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
@@ -78,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
