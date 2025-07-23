@@ -1,18 +1,12 @@
-import java.util.HashSet;
-
 class Solution {
     public int numJewelsInStones(String jewels, String stones) {
-        HashSet<Character> set = new HashSet<>();
-        for (char ch : jewels.toCharArray()) {
-            set.add(ch);
-        }
-
         int cnt = 0;
-        for (char st : stones.toCharArray()) {
-            if (set.contains(st)) {
-                cnt++;
+        for(int i=0;i<jewels.length();i++){
+            for(int j=0;j<stones.length();j++){
+                if(jewels.charAt(i)==stones.charAt(j)){
+                    cnt++;
+                }
             }
-        }
-        return cnt;
+        }return cnt;
     }
 }
