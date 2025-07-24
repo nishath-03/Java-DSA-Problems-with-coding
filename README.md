@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2058-concatenation-of-array) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [2714-left-and-right-sum-differences](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
 | ------- |
