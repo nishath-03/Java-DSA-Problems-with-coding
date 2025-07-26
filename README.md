@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Simulation
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2714-left-and-right-sum-differences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
