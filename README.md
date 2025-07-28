@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
 | [1580-shuffle-the-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2058-concatenation-of-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
 | [0782-jewels-and-stones](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0782-jewels-and-stones) |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
 ## Sorting
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
