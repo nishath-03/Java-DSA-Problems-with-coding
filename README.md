@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2058-concatenation-of-array) |
@@ -65,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0782-jewels-and-stones) |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
