@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2556-convert-the-temperature) |
