@@ -14,10 +14,8 @@ class Solution {
             nums[k++] = b[i];
             i++;
         }
-
         while(i < acnt) nums[k++] = a[i++];
         while(i < bcnt) nums[k++] = b[i++];
-
         return nums;
     }
 }
