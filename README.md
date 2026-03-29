@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1205-defanging-an-ip-address) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3379-score-of-a-string](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/3379-score-of-a-string) |
 ## Math
 | Problem Name | Difficulty |
