@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
