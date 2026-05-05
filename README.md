@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0228-summary-ranges/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0724-find-pivot-index) |
 | [1580-shuffle-the-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1580-shuffle-the-array) |
