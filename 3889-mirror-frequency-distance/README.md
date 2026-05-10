@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/mirror-frequency-distance">3889. Mirror Frequency Distance</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters and digits.</p>
+<h2><a href="https://leetcode.com/problems/mirror-frequency-distance">4273. Mirror Frequency Distance</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters and digits.</p>
 
 <p>For each character, its <strong>mirror character</strong> is defined by reversing the order of its character set:</p>
 
