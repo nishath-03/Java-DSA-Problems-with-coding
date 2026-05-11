@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2058-concatenation-of-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2553-separate-the-digits-in-an-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [2714-left-and-right-sum-differences](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2058-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
 ## Prefix Sum
 | Problem Name | Difficulty |
