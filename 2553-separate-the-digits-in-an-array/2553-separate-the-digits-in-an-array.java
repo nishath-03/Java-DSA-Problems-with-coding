@@ -1,14 +1,17 @@
 class Solution {
-    public int[] separateDigits(int[] nums) {
-        String k="";
-        for(int i:nums){
-
-            k=k+i;
+    static String numsInStr(int[] nums){
+        StringBuilder sb= new StringBuilder();
+        for(int i=0;i<nums.length;i++){
+            sb.append(nums[i]);
         }
-        int [] arr = new int[k.length()];
-        int i=0;
-        for(char c: k.toCharArray()){
-            arr[i++]=c-'0';
-        }return arr;
+        return sb.toString();
+    }
+    public int[] separateDigits(int[] nums) {
+        String str= numsInStr(nums);
+        int[] ans=new int[str.length()];
+        for(int i=0; i<str.length(); i++){
+            ans[i]= str.charAt(i) -'0';
+        }
+        return ans;
     }
 }
