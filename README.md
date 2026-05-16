@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0782-jewels-and-stones) |
+| [0944-delete-columns-to-make-sorted](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0944-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1205-defanging-an-ip-address) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0228-summary-ranges/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0724-find-pivot-index) |
+| [0944-delete-columns-to-make-sorted](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0944-delete-columns-to-make-sorted) |
 | [1580-shuffle-the-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2058-concatenation-of-array) |
