@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0944-delete-columns-to-make-sorted) |
+| [1306-jump-game-iii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1306-jump-game-iii) |
 | [1580-shuffle-the-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2058-concatenation-of-array) |
@@ -137,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
 |  |
