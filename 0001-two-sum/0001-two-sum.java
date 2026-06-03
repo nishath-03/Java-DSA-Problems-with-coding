@@ -8,10 +8,11 @@ class Solution {
                 if(nums[i]+nums[j] == target){
                     start = i;
                     end = j;
+                    return new int[]{start,end};
                 }
             }
         }
-        int []res={start,end};
-        return res;
+        
+        return new int[]{};
     }
 }
