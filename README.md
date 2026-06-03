@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0015-3sum/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
