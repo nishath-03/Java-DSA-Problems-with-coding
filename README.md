@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0242-valid-anagram/) | Easy |
 | [0782-jewels-and-stones](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0782-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0944-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1205-defanging-an-ip-address) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0782-jewels-and-stones) |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0349-intersection-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2784-check-if-array-is-good) |
 | [3606-coupon-code-validator](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/3606-coupon-code-validator/) | Easy |
