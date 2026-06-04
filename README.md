@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0219-contains-duplicate-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0128-longest-consecutive-sequence) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 |  |
