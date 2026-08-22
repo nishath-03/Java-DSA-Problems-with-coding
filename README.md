@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2556-convert-the-temperature) |
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
