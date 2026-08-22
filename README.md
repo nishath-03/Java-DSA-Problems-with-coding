@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0231-power-of-two](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0061-rotate-list) |
 ## Counting
 | Problem Name | Difficulty |
