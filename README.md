@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2714-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2784-check-if-array-is-good) |
 | [3606-coupon-code-validator](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/3606-coupon-code-validator/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2679-count-distinct-numbers-on-board) |
 | [2784-check-if-array-is-good](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/2784-check-if-array-is-good) |
 | [3606-coupon-code-validator](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/3606-coupon-code-validator/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3889-mirror-frequency-distance](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
