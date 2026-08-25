@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0125-valid-palindrome) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0061-rotate-list) |
 ## Counting
