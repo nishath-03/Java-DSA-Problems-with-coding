@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/0061-rotate-list) |
 ## Counting
@@ -217,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
