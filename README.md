@@ -169,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0101-symmetric-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [1306-jump-game-iii](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -217,10 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nishath-03/Java-DSA-Problems-with-coding/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
